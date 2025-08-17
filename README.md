@@ -34,7 +34,7 @@ It simplifies technical tasks into structured steps, showing both **solutions an
 ---
 
 ## 📑 Reference Documents
-- [Problem Statement (Cisco PDF)](Problem Statement (Cisco PDF).pdf)
+- [Problem Statement](main/Problem Statement (Cisco PDF).pdf)
 - [Webinar Minutes / Instructions](docs/webinar_minutes.pdf)
 
 
