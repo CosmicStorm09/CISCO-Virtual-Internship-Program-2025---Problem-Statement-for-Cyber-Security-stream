@@ -28,5 +28,13 @@ It simplifies technical tasks into structured steps, showing both **solutions an
 ## 🛠️ Tools Used  
 - Cisco Packet Tracer  
 - Markdown for documentation  
-- Cybersecurity basics (VPN, ACLs, firewalls, IDS/IPS, filtering)  
+- Cybersecurity basics (VPN, ACLs, firewalls, IDS/IPS, filtering)
+
+
+---
+
+## 📑 Reference Documents
+- [Problem Statement (Cisco PDF)](docs/problem_statement.pdf)
+- [Webinar Minutes / Instructions](docs/webinar_minutes.pdf)
+
 
