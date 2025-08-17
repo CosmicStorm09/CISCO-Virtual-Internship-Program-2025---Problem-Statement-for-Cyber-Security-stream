@@ -34,7 +34,8 @@ It simplifies technical tasks into structured steps, showing both **solutions an
 ---
 
 ## 📑 Reference Documents
-- [Problem Statement](main/Problem Statement (Cisco PDF).pdf)
+- Problem Statement (Cisco PDF).pdf
+- https://github.com/CosmicStorm09/CISCO-Virtual-Internship-Program-2025---Problem-Statement-for-Cyber-Security-stream/blob/4700433787e818fc15fd288b2abecd44d4dc5b5e/Problem%20Statement%20(Cisco%20PDF).pdf
 - [Webinar Minutes / Instructions](docs/webinar_minutes.pdf)
 
 
